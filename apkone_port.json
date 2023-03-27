@@ -1,10 +1,10 @@
 {
      "apk001": {
         "isToPage": false,
-        "countryCodes": ["LA","PH","BR","HK"],
+        "countryCodes": ["LA","PH","BR","HK"]
     } ,
         "apk002": {
         "isToPage": false,
-        "countryCodes": ["LA","PH","BR","HK"],
+        "countryCodes": ["LA","PH","BR","HK"]
     }
 }
